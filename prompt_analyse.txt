@@ -1,0 +1,13 @@
+Génère une analyse complète des règles métier pour une base de données inspirée du jeu Clash Royale.
+
+Inclure :
+- Joueurs
+- Cartes
+- Decks
+- Combats
+- Clans
+- Arènes
+- Récompenses
+
+Inclure des contraintes métier réalistes.
+Proposer des relations N-N si nécessaires.
